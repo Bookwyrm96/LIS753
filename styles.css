@@ -1,0 +1,29 @@
+h1 { 
+    color:#3C2187 
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: #9586da;
+    color: #3C2187;
+    text-align:center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+p { 
+    color: #3C2187; 
+}
+figure {
+    border: 2px solid black;
+    padding: 20px;
+ }
+ figure img {
+    width: 75%;
+    height: auto;
+}
+ p {
+    text-align:center
+}
+p img { 
+    float: center;
+margin-top: 20px
+}
