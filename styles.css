@@ -27,13 +27,13 @@ ul li a{
     margin-right: 150px;
     margin-left: 200px;
     list-style: none;
-    padding: 2px;
+    padding: 5px;
     width: 200px;
     border: 2px solid black;
   }
   ul li a{
     border-bottom: 1px solid black; 
-    padding: 5px;
+    padding: 10px;
   }
   ul li:last-child {
     border-bottom: none;
