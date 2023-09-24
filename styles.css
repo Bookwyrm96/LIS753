@@ -22,12 +22,6 @@ figure {
 a{font-weight: bold;
   color:#9586DA;
 }
-ul li a{
-    background: #3C2187;
-    text-align: left;
-    list-style: none;
-    border: 2px solid black;
-  }
  p {
     text-align:center
 }
