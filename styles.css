@@ -29,6 +29,7 @@ ul {
   padding: 2px;
   width: 200px;
   border: 2px solid black;
+  float: center;
 }
 ul li {
   border-bottom: 1px solid black; 
