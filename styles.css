@@ -7,7 +7,7 @@ body {
     color: #3C2187;
     text-align:center;
     margin-right: 50px;
-    margin-left: 50px;
+    margin-left: 50px; }
 p { 
     color: #3C2187; 
 }
@@ -49,5 +49,4 @@ nav ul {
 p img { 
     float: center;
 margin-top: 20px
-}
 }
