@@ -19,7 +19,9 @@ figure {
     width: 75%;
     height: auto;
 }
-nav ul {
+a{font-weight: bold;
+color:#9586DA}
+ul li a{
     background: #3C2187;
     text-align: center;
     margin-right: 150px;
@@ -29,18 +31,18 @@ nav ul {
     width: 200px;
     border: 2px solid black;
   }
-  nav ul li {
+  ul li a{
     border-bottom: 1px solid black; 
     padding: 5px;
   }
-  nav ul li:last-child {
+  ul li:last-child {
     border-bottom: none;
   }
-  nav ul li a{
+  ul li a{
     color: #9586DA;
     text-decoration: none;
   }
-  nav ul li a:hover {
+  ul li a:hover {
     text-decoration: underline;
   }
  p {
