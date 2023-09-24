@@ -7,7 +7,8 @@ body {
     color: #3C2187;
     text-align:center;
     margin-right: 50px;
-    margin-left: 50px; }
+    margin-left: 50px; 
+  }
 p { 
     color: #3C2187; 
 }
@@ -19,8 +20,29 @@ figure {
     width: 75%;
     height: auto;
 }
-a{font-weight: bold;
-  color:#9586DA;
+ul {
+  background: #3C2187;
+  text-align: center;
+  margin-right: 150px;
+  margin-left: 200px;
+  list-style: none;
+  padding: 2px;
+  width: 200px;
+  border: 2px solid black;
+}
+ul li {
+  border-bottom: 1px solid black; 
+  padding: 5px;
+}
+ul li:last-child {
+  border-bottom: none;
+}
+ul li a{
+  color: #9586DA;
+  text-decoration: none;
+}
+ul li a:hover {
+  text-decoration: underline;
 }
  p {
     text-align:center
