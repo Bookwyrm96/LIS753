@@ -21,8 +21,6 @@ figure {
     height: auto;
 }
 ul {
-  display: inline;
-  float: left
   div class="topnav";
   background: black;
   text-align: center;
@@ -32,6 +30,10 @@ ul {
   padding: 2px;
   width: 200px;
   border: 2px solid white;
+}
+li {
+  display: inline;
+  float: left;
 }
 ul li {
   border-bottom: 1px solid white; 
