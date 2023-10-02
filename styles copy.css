@@ -1,16 +1,16 @@
 h1 { 
-    color:#1a0c3e 
+    color: black; 
 }
 body {
     font-family: 'Times New Roman', Times, serif;
     background: #b9adef;
-    color: #1a0c3e;
+    color: black;
     text-align:center;
     margin-right: 50px;
     margin-left: 50px; 
   }
 p { 
-    color: #1a0c3e; 
+    color: black; 
 }
 figure {
     border: 2px solid black;
@@ -21,7 +21,7 @@ figure {
     height: auto;
 }
 ul {
-  background: #1a0c3e;
+  background: black;
   text-align: center;
   margin-right: 200px;
   margin-left: 200px;
