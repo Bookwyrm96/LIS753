@@ -21,6 +21,7 @@ figure {
     height: auto;
 }
 ul {
+  div class="topnav";
   background: black;
   text-align: center;
   margin-right: 200px;
@@ -29,7 +30,7 @@ ul {
   padding: 2px;
   width: 200px;
   border: 2px solid white;
-  float: left;
+  float: center;
 }
 ul li {
   border-bottom: 1px solid white; 
@@ -39,7 +40,7 @@ ul li:last-child {
   border-bottom: none;
 }
 ul li a{
-  color: #b9adef;
+  color: white;
   text-decoration: none;
 }
 ul li a:hover {
