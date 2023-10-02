@@ -1,16 +1,16 @@
 h1 { 
-    color:#3C2187 
+    color:#1a0c3e 
 }
 body {
     font-family: 'Times New Roman', Times, serif;
-    background: #9586da;
-    color: #3C2187;
+    background: #b9adef;
+    color: #1a0c3e;
     text-align:center;
     margin-right: 50px;
     margin-left: 50px; 
   }
 p { 
-    color: #3C2187; 
+    color: #1a0c3e; 
 }
 figure {
     border: 2px solid black;
@@ -21,7 +21,7 @@ figure {
     height: auto;
 }
 ul {
-  background: #1a0a44;
+  background: #1a0c3e;
   text-align: center;
   margin-right: 200px;
   margin-left: 200px;
@@ -39,7 +39,7 @@ ul li:last-child {
   border-bottom: none;
 }
 ul li a{
-  color: #9586DA;
+  color: #b9adef;
   text-decoration: none;
 }
 ul li a:hover {
