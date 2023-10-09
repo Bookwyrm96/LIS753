@@ -78,8 +78,7 @@ footer#page-footer {
   margin-top: 100px;
   text-align: center;
   background-color: #9d88fc;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 32px 12px;
   color: black;
   list-style: none;
   display:inline; }
