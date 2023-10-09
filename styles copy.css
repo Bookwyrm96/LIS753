@@ -70,9 +70,10 @@ figure.section-image.even{
 }
 footer p{
   text-align: center;
+  padding-bottom: 24px;
 }
 footer nav ul li{
-  background: #9d88fc;
+  background: #866ef1;
   text-align: center;
   margin: 0 auto;
   list-style: none;
