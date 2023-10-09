@@ -69,15 +69,24 @@ figure.section-image.even{
  p {
     text-align: justify;
 }
-footer nav ul li{
+footer nav ul {
+  background: #9d88fc;
   text-align: center;
-  background-color: #9d88fc;
-  color: black;
-  list-style: none;
-  display: inline; 
   margin: 0 auto;
+  list-style: none;
+  padding: 10px;
+  border: 1px solid white;
 }
-footer p{
-  text-align:center;
+footer nav ul li { 
+  padding: 24px;
   display: inline;
+  overflow: hidden;
+}
+footer nav ul li a{
+  color: white;
+  text-decoration: none;
+  display:inline;
+}
+footer nav ul li a:hover {
+  text-decoration: underline;
 }
