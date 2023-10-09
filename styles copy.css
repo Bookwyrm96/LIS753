@@ -10,17 +10,17 @@ ul {
   text-align: center;
   margin: 0 auto;
   list-style: none;
-  padding: 5px;
+  padding: 10px;
   border: 1px solid white;
 }
 ul li { 
-  padding: 5px;
+  padding: 10px;
   display: inline;
   overflow: hidden;
 }
 ul li:last-child {
   border-bottom: none;
-  padding: 5px;
+  padding: 10px;
   display:inline;
 }
 ul li a{
