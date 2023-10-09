@@ -26,6 +26,7 @@ ul {
   text-align: center;
   margin-right: 200px;
   margin-left: 200px;
+  margin: 0 auto;
   list-style: none;
   padding: 2px;
   width: 200px;
