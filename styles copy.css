@@ -75,8 +75,9 @@ figure.section-image.even{
     text-align: justify;
 }
 footer nav ul{
-background-color: #9d88fc;
-padding-left: 15px;
-padding-right: 15px;
-color: black
+  text-align: center;
+  background-color: #9d88fc;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: black
 }
