@@ -1,41 +1,8 @@
-body {
-    font-family: 'Times New Roman', Times, serif;
-    background: #beb1fa;
-    color: black;
-    text-align:center;
-    margin-right: 50px;
-    margin-left: 50px; 
-  }
 h1#site-title {
   color: black;
   text-align: center;
   font-size: 80px;
   margin-bottom: 40px;
-}
-h1#article-title {
-  color: black;
-  text-align: left;
-  font-size: 48px;
-}
-p { 
-    color: black; 
-}
-figure {
-    border: 2px solid black;
-    padding: 20px;
- }
-figure.main-image{
-  background-color:#9d88fc; 
-  border-color:#160d3f;
-  color: black; 
-}
- figure.section-image.odd{
-  float:left;
-  margin-right: 20px;
-}
-figure.section-image.even{
-  float:right;
-  margin-left: 20px;
 }
 ul {
   div class="topnav";
@@ -63,10 +30,39 @@ ul li a{
 ul li a:hover {
   text-decoration: underline;
 }
- p {
-    text-align:center
+figure {
+  border: 2px solid black;
+  padding: 20px;
 }
-p img { 
-    float: center;
-margin-top: 20px
+figure.main-image{
+background-color:#9d88fc; 
+border-color:#160d3f;
+color: black; 
+}
+h1#article-title {
+  color: black;
+  text-align: left;
+  font-size: 48px;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: #beb1fa;
+    color: black;
+    text-align:center;
+    margin-right: 50px;
+    margin-left: 50px; 
+  }
+p { 
+    color: black; 
+}
+ figure.section-image.odd{
+  float:left;
+  margin-right: 20px;
+}
+figure.section-image.even{
+  float:right;
+  margin-left: 20px;
+}
+ p {
+    text-align: justify;
 }
