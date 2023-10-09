@@ -24,7 +24,12 @@ figure {
     border: 2px solid black;
     padding: 20px;
  }
-figure.section-image{
+figure.main-image{
+  background-color:#5f47cc; 
+  border-color:#1b0f4e
+  color:aliceblue; 
+}
+ figure.section-image{
   float:left
 }
 ul {
