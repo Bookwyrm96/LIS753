@@ -70,14 +70,14 @@ figure.section-image.even{
     text-align: justify;
 }
 footer nav ul li{
-  margin-top: 100px;
   text-align: center;
   background-color: #9d88fc;
-  padding: 32px 12px;
   color: black;
   list-style: none;
-  display:inline; 
+  display: inline; 
+  margin: 0 auto;
 }
 footer p{
   text-align:center;
+  display: inline;
 }
