@@ -25,12 +25,17 @@ figure {
     padding: 20px;
  }
 figure.main-image{
-  background-color:#8c74fa; 
+  background-color:#a997f8; 
   border-color:#160d3f;
   color: black; 
 }
- figure.section-image{
+ figure.section-image.odd{
   float:left;
+  margin-right: 20px;
+}
+figure.section-image.even{
+  float:right;
+  margin-left: 20px;
 }
 ul {
   div class="topnav";
