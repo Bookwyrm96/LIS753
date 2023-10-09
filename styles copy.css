@@ -44,6 +44,7 @@ figure.main-image{
 background-color:#9d88fc; 
 border-color:#160d3f;
 color: black; 
+max-width: 1020px;
 }
 h1#article-title {
   color: black;
