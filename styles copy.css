@@ -44,10 +44,12 @@ ul li {
 ul li:last-child {
   border-bottom: none;
   padding: 5px;
+  display:inline;
 }
 ul li a{
   color: white;
   text-decoration: none;
+  display:inline;
 }
 ul li a:hover {
   text-decoration: underline;
