@@ -12,7 +12,7 @@ header nav ul {
   padding: 10px;
   border: 1px solid white;
 }
-header nav ul li { 
+nav ul li { 
   padding: 24px;
   display: inline;
   overflow: hidden;
@@ -22,7 +22,7 @@ header nav ul li a{
   text-decoration: none;
   display:inline;
 }
-header nav ul li a:hover {
+nav ul li a:hover {
   text-decoration: underline;
 }
 .container{
@@ -76,19 +76,6 @@ footer nav ul {
   padding: 10px;
   border: 1px solid white;
   color:black;
-}
-footer nav ul li { 
-  padding: 24px;
-  display: inline;
-  overflow: hidden;
-}
-footer nav ul li a{
-  color: white;
-  text-decoration: none;
-  display:inline;
-}
-footer nav ul li a:hover {
-  text-decoration: underline;
 }
 footer#page-footer{
   text-align: center;
