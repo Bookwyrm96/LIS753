@@ -80,5 +80,6 @@ footer nav ul{
   background-color: #9d88fc;
   padding-left: 15px;
   padding-right: 15px;
-  color: black
-}
+  color: black;
+  list-style: none;
+  display:inline; }
