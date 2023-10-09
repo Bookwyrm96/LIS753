@@ -77,6 +77,7 @@ footer nav ul li{
   text-align: center;
   margin: 0 auto;
   list-style: none;
+  text-decoration: none;
   padding: 24px;
   border: 1px solid black;
   color:black;
@@ -87,4 +88,5 @@ footer#page-footer{
   margin-top: 48px;
   color: black;
   background: #9d88fc;
+  border: 2px solid black;
 }
