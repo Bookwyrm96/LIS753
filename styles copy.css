@@ -1,6 +1,6 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background: #b9adef;
+    background: #beb1fa;
     color: black;
     text-align:center;
     margin-right: 50px;
@@ -25,7 +25,7 @@ figure {
     padding: 20px;
  }
 figure.main-image{
-  background-color:#a997f8; 
+  background-color:#b4a3fc; 
   border-color:#160d3f;
   color: black; 
 }
