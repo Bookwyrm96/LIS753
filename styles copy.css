@@ -1,6 +1,3 @@
-h1 { 
-    color: black; 
-}
 body {
     font-family: 'Times New Roman', Times, serif;
     background: #b9adef;
@@ -9,6 +6,16 @@ body {
     margin-right: 50px;
     margin-left: 50px; 
   }
+h1#site-title {
+  color: black;
+  text-align: center;
+  font-size: 72px;
+}
+h1#article-title {
+  color: black;
+  text-align: left;
+  font-size: 48px;
+}
 p { 
     color: black; 
 }
