@@ -74,7 +74,7 @@ figure.section-image.even{
  p {
     text-align: justify;
 }
-footer nav ul{
+footer#page-footer {
   margin-top: 100px;
   text-align: center;
   background-color: #9d88fc;
