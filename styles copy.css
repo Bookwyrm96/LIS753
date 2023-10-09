@@ -25,9 +25,9 @@ figure {
     padding: 20px;
  }
 figure.main-image{
-  background-color:#5f47cc; 
-  border-color:#1b0f4e
-  color:aliceblue; 
+  background-color:#8c74fa; 
+  border-color:#160d3f;
+  color: black; 
 }
  figure.section-image{
   float:left;
