@@ -4,7 +4,7 @@ h1#site-title {
   font-size: 80px;
   margin-bottom: 40px;
 }
-ul {
+header nav ul {
   div class="topnav";
   background: #160d3f;
   text-align: center;
@@ -13,22 +13,22 @@ ul {
   padding: 10px;
   border: 1px solid white;
 }
-ul li { 
+header nav ul li { 
   padding: 10px;
   display: inline;
   overflow: hidden;
 }
-ul li:last-child {
+header nav ul li:last-child {
   border-bottom: none;
   padding: 10px;
   display:inline;
 }
-ul li a{
+header nav ul li a{
   color: white;
   text-decoration: none;
   display:inline;
 }
-ul li a:hover {
+header nav ul li a:hover {
   text-decoration: underline;
 }
 .container{
@@ -69,7 +69,14 @@ p {
 figure.section-image.even{
   float:right;
   margin-left: 20px;
+  margin-bottom: 50px;
 }
  p {
     text-align: justify;
+}
+footer nav ul{
+background-color: #9d88fc;
+padding-left: 15px;
+padding-right: 15px;
+color: black
 }
