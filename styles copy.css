@@ -68,18 +68,22 @@ figure.section-image.even{
  p {
     text-align: justify;
 }
+footer p{
+  text-align: center;
+}
 footer nav ul {
   background: #9d88fc;
   text-align: center;
   margin: 0 auto;
   list-style: none;
   padding: 10px;
-  border: 1px solid white;
+  border: 1px solid black;
   color:black;
 }
 footer#page-footer{
   text-align: center;
   padding: 24px 0;
   margin-top: 48px;
+  color: black;
   background: #9d88fc;
 }
