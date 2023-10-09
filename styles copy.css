@@ -33,16 +33,17 @@ ul {
   text-align: center;
   margin: 0 auto;
   list-style: none;
-  padding: 2px;
-  border: 2px solid white;}
+  padding: 5px;
+  border: 1px solid white;}
 ul li {
   border-bottom: 1px solid white; 
   padding: 5px;
   display: inline;
-  overflow:hidden;
+  overflow: hidden;
 }
 ul li:last-child {
   border-bottom: none;
+  padding: 5px;
 }
 ul li a{
   color: white;
