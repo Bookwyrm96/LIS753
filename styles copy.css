@@ -24,7 +24,7 @@ figure {
     border: 2px solid black;
     padding: 20px;
  }
-figure#section-image{
+figure.section-image{
   float:left
 }
 ul {
