@@ -76,4 +76,8 @@ footer nav ul{
   padding: 32px 12px;
   color: black;
   list-style: none;
-  display:inline; }
+  display:inline; 
+}
+footer p{
+  text-align:center;
+}
