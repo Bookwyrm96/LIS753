@@ -70,7 +70,7 @@ figure.section-image.even{
 }
 footer p{
   text-align: center;
-  padding-bottom: 24px;
+  padding-bottom: 12px;
 }
 footer nav ul li{
   background: #866ef1;
@@ -78,13 +78,13 @@ footer nav ul li{
   margin: 0 auto;
   list-style: none;
   text-decoration: none;
-  padding: 24px;
+  padding: 12px;
   border: 1px solid black;
   color:black;
 }
 footer#page-footer{
   text-align: center;
-  padding: 24px 0;
+  padding: 12px 0;
   margin-top: 48px;
   color: black;
   text-decoration: none;
