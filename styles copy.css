@@ -24,11 +24,11 @@ header nav ul li a{
 nav ul li a:hover {
   text-decoration: underline;
 }
-@media all and (min-width: 376px) {
+@media all and (min-width: 392px) {
   nav ul{
     display: inline;
-    gap:30px;
     justify-content: center;
+    padding:24px;
   }
 }
 .container{
