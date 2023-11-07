@@ -25,14 +25,15 @@ header nav ul li a{
 nav ul li a:hover {
   text-decoration: underline;
 }
-@media all and (max-width: 370px) {
+@media all and (max-width: 360px) {
   nav ul{
     display:block;
     padding:24px;
     overflow:hidden;
   }
   figure{
-    width:96%
+    width:96%;
+    object-fit: contain;
   }
 }
 .container{
