@@ -28,7 +28,6 @@ nav ul li a:hover {
 @media all and (min-width: 376px){
   display:flex;
   justify-content: center;
-  gap:30px;
 }
 .container{
   width: 96%;
