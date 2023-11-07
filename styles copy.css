@@ -80,21 +80,17 @@ footer p{
   padding-bottom: 12px; 
 }
 footer nav ul li{
-  background: #866ef1;
+  background: #160d3f;
   text-align: center;
   margin: 0 auto;
   list-style: none;
-  text-decoration: none;
-  padding: 12px;
-  border: 1px solid black;
-  color:black;
+  padding: 10px;
+  border: 1px solid white;
 }
 footer#page-footer{
   text-align: center;
   padding: 12px 0;
   margin-top: 48px;
-  text-decoration-color: black;
   text-decoration: none;
-  background: #9d88fc;
   border: 2px solid black;
 }
