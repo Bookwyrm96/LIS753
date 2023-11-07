@@ -14,7 +14,7 @@ header nav ul {
 }
 nav ul li { 
   padding: 24px;
-  display:block;
+  display: inline;
 }
 header nav ul li a{
   color: white;
@@ -24,10 +24,9 @@ header nav ul li a{
 nav ul li a:hover {
   text-decoration: underline;
 }
-@media all and (min-width: 392px) {
+@media all and (max-width: 370px) {
   nav ul{
-    display: inline;
-    justify-content: center;
+    display:inline-block;
     padding:24px;
   }
 }
