@@ -14,7 +14,6 @@ header nav ul {
 }
 nav ul li { 
   padding: 24px;
-  display: inline;
   overflow: hidden;
 }
 header nav ul li a{
@@ -25,9 +24,14 @@ header nav ul li a{
 nav ul li a:hover {
   text-decoration: underline;
 }
-@media all and (min-width: 376px){
-  display:flex;
-  justify-content: center;
+@media all and (min-width: 376px) {
+  nav ul{
+    display: inline;
+    gap:30px;
+    justify-content: center;
+  }
+}
+  
 }
 .container{
   width: 96%;
