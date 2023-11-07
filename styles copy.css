@@ -29,6 +29,10 @@ nav ul li a:hover {
   nav ul{
     display:block;
     padding:24px;
+    overflow:hidden;
+  }
+  figure{
+    width:96%
   }
 }
 .container{
