@@ -1,3 +1,16 @@
+#message{
+    background: #003300;
+      color:white;
+      padding: 20px;
+      margin: 12px 0;
+      border-radius: 5px;
+       border: 1px solid white;
+  }
+
+  #message button{
+    float:right;
+  }
+
 h1#site-title {
   color: black;
   text-align: center;
@@ -5,7 +18,7 @@ h1#site-title {
   margin-bottom: 40px;
 }
 header nav ul {
-  background: #160d3f;
+  background: #003300;
   text-align: center;
   margin: 0 auto;
   list-style: none;
@@ -46,8 +59,8 @@ figure {
   padding: 20px;
 }
 figure.main-image{
-background-color:#9d88fc; 
-border-color:#160d3f;
+background-color:#548254;
+border-color:#003300;
 color: black; 
 max-width: 1020px;
 width:96%;
@@ -59,7 +72,7 @@ h1#article-title {
 }
 body {
     font-family: 'Times New Roman', Times, serif;
-    background: #beb1fa;
+    background-color:#548254;
     color: black;
     text-align:center;
     margin-right: 50px;
@@ -85,7 +98,7 @@ footer p{
   padding-bottom: 12px; 
 }
 footer nav ul li{
-  background: #160d3f;
+  background: #003300;
   text-align: center;
   margin: 0 auto;
   list-style: none;
