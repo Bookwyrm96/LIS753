@@ -59,7 +59,7 @@ figure {
   padding: 20px;
 }
 figure.main-image{
-background-color:#548254;
+background-color:#8bd48b;
 border-color:#003300;
 color: black; 
 max-width: 1020px;
@@ -72,7 +72,7 @@ h1#article-title {
 }
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color:#548254;
+    background-color:#8bd48b;
     color: black;
     text-align:center;
     margin-right: 50px;
