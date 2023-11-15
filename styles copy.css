@@ -11,6 +11,14 @@
     float:right;
   }
 
+  main.dark-mode {
+    background: #003300;
+    color: white;
+  }
+  main.dark-mode button{
+    background-color: #609260;
+  }
+
 h1#site-title {
   color: black;
   text-align: center;
