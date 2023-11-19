@@ -52,11 +52,10 @@ nav ul li a:hover {
     padding:24px;
     overflow:hidden;
   }
-  figure{
+figure{
     width:96%;
     object-fit: contain;
   }
-}
 .container{
   width: 96%;
   max-width: 1020px;
@@ -74,6 +73,7 @@ max-width: 1020px;
 width:72%;
 float:center;
 }
+
 h1#article-title {
   color: black;
   text-align: left;
