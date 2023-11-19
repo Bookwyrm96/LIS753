@@ -72,6 +72,7 @@ border-color:#003300;
 color: black; 
 max-width: 1020px;
 width:96%;
+float:center;
 }
 h1#article-title {
   color: black;
