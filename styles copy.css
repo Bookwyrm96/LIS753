@@ -55,7 +55,6 @@ nav ul li a:hover {
   figure{
     width:96%;
     object-fit: contain;
-    align-self: center;
   }
 }
 .container{
@@ -70,11 +69,13 @@ figure {
   padding: 20px;
 }
 figure.main-image{
-background-color:#609260;
-border-color:#003300;
-color: black; 
-max-width: 1020px;
-width:96%;
+  background-color:#609260;
+  border-color:#003300;
+  color: black; 
+  max-width: 1020px;
+  width:96%;
+  text-align:center;
+  display:block;
 }
 h1#article-title {
   color: black;
