@@ -55,6 +55,7 @@ nav ul li a:hover {
   figure{
     width:96%;
     object-fit: contain;
+    align-self: center;
   }
 }
 .container{
@@ -62,6 +63,7 @@ nav ul li a:hover {
   max-width: 1020px;
   margin: 0 auto;
   text-align:center;
+  display:block;
 }
 figure {
   border: 2px solid black;
