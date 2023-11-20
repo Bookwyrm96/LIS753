@@ -65,6 +65,13 @@ figure {
 border: 2px solid black;
 padding: 20px;
 }
+.container{
+  width: 96%;
+  margin: 0 auto;
+  max-width: 1200px;
+  text-align:center;
+  display:block;
+}
 h1#article-title {
 color: black;
 text-align: left;
