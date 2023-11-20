@@ -76,6 +76,7 @@ figure.main-image{
   width:96%;
   text-align:center;
   display:block;
+  margin-right: 20px;
 }
 h1#article-title {
   color: black;
