@@ -61,6 +61,7 @@ nav ul li a:hover {
   width: 96%;
   max-width: 1020px;
   margin: 0 auto;
+  text-align:center;
 }
 figure {
   border: 2px solid black;
